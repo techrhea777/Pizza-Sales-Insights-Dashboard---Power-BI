@@ -22,12 +22,12 @@ Power BI – for data visualization and dashboard creation
 **Key KPIs Analyzed**
 
 The following KPIs were calculated using SQL:
-💰 Total Revenue
-🧾 Total Orders
-🍕 Total Pizzas Sold
-📈 Average Order Value
-📊 Average Pizzas per Order
-📈 Analysis Performed
+ Total Revenue
+ Total Orders
+ Total Pizzas Sold
+ Average Order Value
+ Average Pizzas per Order
+ Analysis Performed
 
 🔹 Sales Trends
 Daily order trends
